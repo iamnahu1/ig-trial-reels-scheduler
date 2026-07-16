@@ -1,0 +1,18 @@
+name: Publish trial reel 5 (go far)
+on:
+  schedule:
+    - cron: '0 1 17 7 *'   # 2026-07-17 01:00 UTC = 03:00 Madrid
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish reel-5
+        env:
+          COMPOSIO_API_KEY: ${{ secrets.COMPOSIO_API_KEY }}
+        run: |
+          RESP=$(curl -s -X POST https://backend.composio.dev/api/v3/tools/execute/proxy \
+            -H "x-api-key: $COMPOSIO_API_KEY" -H "Content-Type: application/json" \
+            -d '{"connected_account_id":"ca_9ppxQJ5SI21Q","method":"POST","endpoint":"https://graph.instagram.com/v25.0/17841402084791902/media_publish","body":{"creation_id":"18563365117069494"}}')
+          echo "$RESP"
+          echo "$RESP" | grep -q '"id"' && echo "PUBLISHED reel-5" || { echo "PUBLISH FAILED"; exit 1; }
