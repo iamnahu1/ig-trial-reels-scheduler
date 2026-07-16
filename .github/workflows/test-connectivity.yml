@@ -1,0 +1,16 @@
+name: Test connectivity (read-only)
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read IG profile via Composio proxy
+        env:
+          COMPOSIO_API_KEY: ${{ secrets.COMPOSIO_API_KEY }}
+        run: |
+          RESP=$(curl -s -X POST https://backend.composio.dev/api/v3/tools/execute/proxy \
+            -H "x-api-key: $COMPOSIO_API_KEY" -H "Content-Type: application/json" \
+            -d '{"connected_account_id":"ca_9ppxQJ5SI21Q","method":"GET","endpoint":"https://graph.instagram.com/v25.0/me?fields=id,username,account_type"}')
+          echo "$RESP"
+          echo "$RESP" | grep -q '"username"' && echo "TEST OK" || { echo "TEST FAILED"; exit 1; }
