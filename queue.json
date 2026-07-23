@@ -296,6 +296,56 @@
       "id": "mentality-sleep",
       "creation_id": "18564550171069494",
       "publish_after_utc": "2026-07-21T03:10:00Z"
+    },
+    {
+      "id": "j23-accountability",
+      "creation_id": "18565239652069494",
+      "publish_after_utc": "2026-07-23T13:35:00Z"
+    },
+    {
+      "id": "j23-portfolio",
+      "creation_id": "18565239655069494",
+      "publish_after_utc": "2026-07-23T13:45:00Z"
+    },
+    {
+      "id": "j23-nocoach",
+      "creation_id": "18565239661069494",
+      "publish_after_utc": "2026-07-23T13:55:00Z"
+    },
+    {
+      "id": "j23-formwrong",
+      "creation_id": "18565239664069494",
+      "publish_after_utc": "2026-07-23T14:05:00Z"
+    },
+    {
+      "id": "j23-highlight",
+      "creation_id": "18565239667069494",
+      "publish_after_utc": "2026-07-23T14:15:00Z"
+    },
+    {
+      "id": "j23-chickenrice",
+      "creation_id": "18565239700069494",
+      "publish_after_utc": "2026-07-23T14:20:00Z"
+    },
+    {
+      "id": "j23-menu",
+      "creation_id": "18565239742069494",
+      "publish_after_utc": "2026-07-23T14:32:00Z"
+    },
+    {
+      "id": "j23-restdays",
+      "creation_id": "18565239751069494",
+      "publish_after_utc": "2026-07-23T14:44:00Z"
+    },
+    {
+      "id": "j23-firstbill",
+      "creation_id": "18565239862069494",
+      "publish_after_utc": "2026-07-23T14:56:00Z"
+    },
+    {
+      "id": "j23-firsthour",
+      "creation_id": "18565239904069494",
+      "publish_after_utc": "2026-07-23T15:08:00Z"
     }
   ]
 }
