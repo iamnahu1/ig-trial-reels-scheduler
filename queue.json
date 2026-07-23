@@ -346,6 +346,56 @@
       "id": "j23-firsthour",
       "creation_id": "18565239904069494",
       "publish_after_utc": "2026-07-23T15:08:00Z"
+    },
+    {
+      "id": "5fs-faith-mornings",
+      "creation_id": "18565262914069494",
+      "publish_after_utc": "2026-07-23T16:00:00Z"
+    },
+    {
+      "id": "5fs-faith-rest",
+      "creation_id": "18565262917069494",
+      "publish_after_utc": "2026-07-23T16:13:00Z"
+    },
+    {
+      "id": "5fs-family-wife",
+      "creation_id": "18565262920069494",
+      "publish_after_utc": "2026-07-23T16:26:00Z"
+    },
+    {
+      "id": "5fs-family-comehome",
+      "creation_id": "18565262923069494",
+      "publish_after_utc": "2026-07-23T16:39:00Z"
+    },
+    {
+      "id": "5fs-friends-cheer",
+      "creation_id": "18565262926069494",
+      "publish_after_utc": "2026-07-23T16:52:00Z"
+    },
+    {
+      "id": "5fs-friends-connect",
+      "creation_id": "18565262932069494",
+      "publish_after_utc": "2026-07-24T07:00:00Z"
+    },
+    {
+      "id": "5fs-fitness-onepercent",
+      "creation_id": "18565262947069494",
+      "publish_after_utc": "2026-07-24T07:58:00Z"
+    },
+    {
+      "id": "5fs-fitness-kitchen",
+      "creation_id": "18565262953069494",
+      "publish_after_utc": "2026-07-24T08:56:00Z"
+    },
+    {
+      "id": "5fs-finance-firstdollar",
+      "creation_id": "18565262986069494",
+      "publish_after_utc": "2026-07-24T09:54:00Z"
+    },
+    {
+      "id": "5fs-finance-wealthiest",
+      "creation_id": "18565262989069494",
+      "publish_after_utc": "2026-07-24T10:52:00Z"
     }
   ]
 }
