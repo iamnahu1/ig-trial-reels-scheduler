@@ -548,6 +548,26 @@
       "id": "batch20-20",
       "creation_id": "18565802770069494",
       "publish_after_utc": "2026-07-26T01:12:00Z"
+    },
+    {
+      "id": "mentality15-p1",
+      "creation_id": "18566298652069494",
+      "publish_after_utc": "2026-07-27T11:40:00Z"
+    },
+    {
+      "id": "mentality15-p2",
+      "creation_id": "18566298664069494",
+      "publish_after_utc": "2026-07-27T11:55:00Z"
+    },
+    {
+      "id": "mentality15-p3",
+      "creation_id": "18566298676069494",
+      "publish_after_utc": "2026-07-27T12:10:00Z"
+    },
+    {
+      "id": "mentality15-p4",
+      "creation_id": "18566298721069494",
+      "publish_after_utc": "2026-07-27T12:25:00Z"
     }
   ]
 }
