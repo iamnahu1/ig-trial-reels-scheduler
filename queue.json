@@ -45,14 +45,6 @@
    "publish_after_utc": "2026-07-31T14:00:00Z"
   },
   {
-   "id": "canary-guardrail-0731",
-   "expect_username": "cuenta-inexistente-test",
-   "trial": false,
-   "blob_key": "no_existe_canary.mp4",
-   "caption": "canary - no debe publicarse nunca",
-   "publish_after_utc": "2026-07-31T00:00:00Z"
-  },
-  {
    "id": "fn-b01-sleep",
    "account": "fromnahu",
    "connected_account_id": "ca_VRUHZDxCL_yJ",
