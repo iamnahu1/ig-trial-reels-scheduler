@@ -43,6 +43,15 @@
    "creation_id": "18567180385069494",
    "caption": "A client of mine trades for a living. He understood risk perfectly at work and was running his training like the worst portfolio you've ever seen.\n\nEverything on one position. All the sessions, all the attention, all the emotional weight on one skill he wanted this month. And when it didn't move, the whole thing was down.\n\nSo we talked about it in his language:\n\n1. You have a portfolio of skills\nPush, pull, legs, core, one skill goal. You're a broker. You're not putting every chip in the same place.\n\n2. Concentration gets you hurt faster\nNot just frustrated. Same joint, same angle, every session, is how you buy an elbow problem you'll pay off for three months.\n\n3. Concentration gets you frustrated faster too\nOne position, one source of feedback. When it stalls, and it will stall, nothing else is reporting a gain and you quit.\n\n4. Diversifying doesn't mean doing everything\nEverything at once is the opposite error and it's just as bad. Three or four positions, weighted differently. Not eleven.\n\n5. Rebalance every couple of weeks, not every session\nTwo-week blocks. One week of high-intensity combos that double as active recovery, one week of standard progressions to break PRs. You don't check a portfolio hourly and you shouldn't check your training that way either.\n\nHe got it in about ninety seconds, because he already knew all of it. He'd just never applied it to himself.\n\nComment MENTALITY and I'll send you the free diagnostic.",
    "publish_after_utc": "2026-07-31T14:00:00Z"
+  },
+  {
+   "id": "canary-guardrail-0731",
+   "expect_username": "cuenta-inexistente-test",
+   "trial": false,
+   "blob_key": "no_existe_canary.mp4",
+   "caption": "canary - no debe publicarse nunca",
+   "publish_after_utc": "2026-07-31T00:00:00Z"
   }
- ]
+ ],
+ "expect_username": "iamnahu"
 }
