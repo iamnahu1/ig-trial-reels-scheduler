@@ -1,0 +1,32 @@
+{
+ "_nota": "Solo entradas con creation_id (container ya creado). queue.json es del val de Val.town y usa blob_key; no mezclar, para no romperle el parseo.",
+ "connected_account_id": "ca_9ppxQJ5SI21Q",
+ "ig_user_id": "17841402084791902",
+ "entries": [
+  {
+   "label": "0804-ph03-january",
+   "creation_id": "18568386250069494",
+   "publish_after_utc": "2026-08-04T10:00:00Z"
+  },
+  {
+   "label": "0804-ph04-busy",
+   "creation_id": "18568386253069494",
+   "publish_after_utc": "2026-08-04T12:00:00Z"
+  },
+  {
+   "label": "0804-ph05-sixdays",
+   "creation_id": "18568386259069494",
+   "publish_after_utc": "2026-08-04T14:00:00Z"
+  },
+  {
+   "label": "0804-ph06-offcamera",
+   "creation_id": "18568386268069494",
+   "publish_after_utc": "2026-08-04T16:00:00Z"
+  },
+  {
+   "label": "0804-ph07-restarted",
+   "creation_id": "18568386298069494",
+   "publish_after_utc": "2026-08-04T18:00:00Z"
+  }
+ ]
+}
