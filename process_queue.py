@@ -24,7 +24,13 @@ def main():
     now = datetime.now(timezone.utc)
     did = False
     for e in q.get("entries", []):
-        label = e.get("label", "?")
+        label = e.get("label") or e.get("id") or "?"
+        # Las entradas con blob_key las procesa el val de Val.town (pipeline
+        # completo desde el Blob). Acá solo se publican las que ya traen un
+        # container creado. Sin este skip, e["creation_id"] tiraba KeyError en
+        # la primera entrada y el run entero moria sin publicar nada.
+        if not e.get("creation_id"):
+            continue
         cid = str(e["creation_id"])
         due = datetime.fromisoformat(e["publish_after_utc"].replace("Z", "+00:00"))
         if now < due:
