@@ -16,7 +16,12 @@ def proxy(conn, method, endpoint, body=None):
     return j.get("status"), j.get("data")
 
 def main():
-    with open("queue.json") as f:
+    # queue.json es del val de Val.town (entradas con blob_key, pipeline completo).
+    # Este runner solo publica containers ya creados, que viven aparte para no
+    # ensuciarle el parseo al val.
+    path = "queue-containers.json" if os.path.exists("queue-containers.json") else "queue.json"
+    print("usando", path)
+    with open(path) as f:
         q = json.load(f)
     conn = q["connected_account_id"]
     ig = q["ig_user_id"]
