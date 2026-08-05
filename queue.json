@@ -538,6 +538,11 @@
       "ig_user_id": "17841402084791902",
       "expect_username": "iamnahu",
       "trial": true
+    },
+    {
+      "id": "t0805-1-gym",
+      "creation_id": "18568801150069494",
+      "publish_after_utc": "2026-08-05T23:00:00Z"
     }
   ],
   "expect_username": "iamnahu"
