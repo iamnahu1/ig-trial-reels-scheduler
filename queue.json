@@ -567,6 +567,51 @@
       "blob_key": "ig_video_0805_5_shopping",
       "caption": "There's a version of discipline that is really just spending.\n\nNew shoes. A creatine you researched for two weeks. The app with the annual plan. A stack that costs more per month than my first client paid me. Every one of those is a decision you make once, and it feels like the real thing because your card gets charged.\n\nCooking your own food is a decision you make again tomorrow. Nobody sells that, because there's nothing in it to sell.\n\nIf you added up what you spent this year on being about to start, you'd get a number that would annoy you.\n\nComment BORING and I'll send you the free guide.",
       "publish_after_utc": "2026-08-09T23:00:00Z"
+    },
+    {
+      "id": "0806-t01-quitpaid",
+      "creation_id": "18568968958069494",
+      "publish_after_utc": "2026-08-06T09:00:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
+    },
+    {
+      "id": "0806-t07-sailboat",
+      "creation_id": "18568968967069494",
+      "publish_after_utc": "2026-08-06T10:10:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
+    },
+    {
+      "id": "0806-t14-material",
+      "creation_id": "18568968970069494",
+      "publish_after_utc": "2026-08-06T11:20:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
+    },
+    {
+      "id": "0806-t16-controlbody",
+      "creation_id": "18568968973069494",
+      "publish_after_utc": "2026-08-06T12:30:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
+    },
+    {
+      "id": "0806-t05-keys",
+      "creation_id": "18568968976069494",
+      "publish_after_utc": "2026-08-06T13:40:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
     }
   ],
   "expect_username": "iamnahu"
