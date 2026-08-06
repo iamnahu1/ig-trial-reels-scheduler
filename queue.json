@@ -612,6 +612,24 @@
       "connected_account_id": "ca_9ppxQJ5SI21Q",
       "ig_user_id": "17841402084791902",
       "trial": true
+    },
+    {
+      "id": "0806b-v02-book",
+      "creation_id": "18569113792069494",
+      "publish_after_utc": "2026-08-06T23:00:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
+    },
+    {
+      "id": "0806b-v03-3days",
+      "creation_id": "18569113795069494",
+      "publish_after_utc": "2026-08-07T18:00:00Z",
+      "expect_username": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "trial": true
     }
   ],
   "expect_username": "iamnahu"
