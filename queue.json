@@ -886,6 +886,54 @@
    "connected_account_id": "ca_9ppxQJ5SI21Q",
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu"
+  },
+  {
+   "id": "nar-n1-pray",
+   "creation_id": "18569336851069494",
+   "publish_after_utc": "2026-08-07T17:15:00Z",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true
+  },
+  {
+   "id": "nar-n2-loyal",
+   "creation_id": "18569336854069494",
+   "publish_after_utc": "2026-08-07T18:50:00Z",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true
+  },
+  {
+   "id": "nar-n3-darkplace",
+   "blob_key": "ig_video_nar_n3-darkplace",
+   "caption": "There was a year where I lost the body and the business at the same time.\n\nI was in Italy chasing a passport, training badly and eating worse. The clients dried up, partly because what I sell is connected to what I look like, and I looked like someone who had stopped. I knew nobody in that country. Nobody was coming.\n\nThat's the year I found my way back to faith. Not the good one before it, not the better one after.\n\nI'm careful saying that out loud because I don't want it to sound like a method. It wasn't. It was the first time I had nothing left to be arrogant with.\n\nThe body came back in a few months and that part was almost mechanical, I already knew what to do. The other thing took much longer, and it's the one I'd keep if I had to pick.\n\nWhat did your worst year hand you that the good ones never did?",
+   "publish_after_utc": "2026-08-08T13:00:00Z",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true
+  },
+  {
+   "id": "nar-n4-guards",
+   "blob_key": "ig_video_nar_n4-guards",
+   "caption": "My wife has never once told me to go train.\n\nShe's never nagged me about a session, never asked why I skipped one, never said much about the gym at all. What she asks is whether I slept. Whether I ate something that didn't come out of a bag. Whether I'm going to sit at that desk until midnight again.\n\nFor years I thought accountability meant somebody pushing you toward the hard thing.\n\nIt doesn't. The hard thing is the part you'll do anyway on a decent week. What takes you out is the boring maintenance underneath it, and nobody volunteers to watch that.\n\nFind the person who watches the boring part. Then actually listen to them, which is the half I'm still bad at.\n\nWho notices when you stop sleeping?",
+   "publish_after_utc": "2026-08-08T14:30:00Z",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true
+  },
+  {
+   "id": "nar-n5-vanity",
+   "blob_key": "ig_video_nar_n5-vanity",
+   "caption": "A guy told me lifting is vanity.\n\nI didn't argue. Half the time he's right, and I've met plenty of men in this industry who are exactly what he was describing.\n\nBut I've also watched what happens to men who use humility as a word for letting go. The body goes, they call it not caring about appearances, and at forty five they can't carry their own kid up a flight of stairs.\n\nThat isn't modesty. It's a decision with a nicer name on it.\n\nYour body is the one thing you're guaranteed to be carrying the whole way. Keeping it working is maintenance, same as anything else you own and plan to keep.\n\nThe vanity lives in the mirror, not in the training. Two different habits, and it's worth knowing which one you're in.\n\nWhich one were you in this week?",
+   "publish_after_utc": "2026-08-08T16:00:00Z",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true
   }
  ],
  "expect_username": "iamnahu"
