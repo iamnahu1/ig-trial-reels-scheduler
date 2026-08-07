@@ -850,6 +850,42 @@
    "connected_account_id": "ca_9ppxQJ5SI21Q",
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu"
+  },
+  {
+   "id": "0807-t02-bottle",
+   "creation_id": "18569287504069494",
+   "publish_after_utc": "2026-08-07T14:07:00Z",
+   "trial": true,
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu"
+  },
+  {
+   "id": "0807-t03-doorbar",
+   "creation_id": "18569287507069494",
+   "publish_after_utc": "2026-08-07T14:54:00Z",
+   "trial": true,
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu"
+  },
+  {
+   "id": "0807-t04-charger",
+   "creation_id": "18569287516069494",
+   "publish_after_utc": "2026-08-07T15:41:00Z",
+   "trial": true,
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu"
+  },
+  {
+   "id": "0807-t05-protein",
+   "creation_id": "18569287519069494",
+   "publish_after_utc": "2026-08-07T16:28:00Z",
+   "trial": true,
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu"
   }
  ],
  "expect_username": "iamnahu"
