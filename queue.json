@@ -1848,6 +1848,39 @@
    "publish_after_utc": "2026-08-22T01:30:00Z",
    "expect_username": "iamnahu",
    "trial": true
+  },
+  {
+   "id": "fn0820-r1-protein-first",
+   "account": "fromnahu",
+   "connected_account_id": "ca_VRUHZDxCL_yJ",
+   "ig_user_id": "17841423764965740",
+   "expect_username": "fromnahu",
+   "trial": false,
+   "blob_key": "fn0820_r1.mp4",
+   "caption": "You don't undereat protein because you don't know it matters. You undereat it because by the time you sit down, the plate is already full of everything else.\n\nThree more ways to fix the order:\n\nThe shop. Protein goes in the basket first. Whatever's left decides the rest of the trolley.\n\nThe prep. Cook it for two days, not one. The second day is the one you'd normally skip.\n\nThe plate. Serve it on its own before anything joins it. You eat what you see first.",
+   "publish_after_utc": "2026-08-20T19:00:00Z"
+  },
+  {
+   "id": "fn0820-r2-walk-before-coffee",
+   "account": "fromnahu",
+   "connected_account_id": "ca_VRUHZDxCL_yJ",
+   "ig_user_id": "17841423764965740",
+   "expect_username": "fromnahu",
+   "trial": false,
+   "blob_key": "fn0820_r2.mp4",
+   "caption": "The ten minutes aren't for the steps. They're for arriving at the day awake instead of arriving at your phone awake.\n\nThree more ways to protect the start:\n\nShoes by the door the night before. At 7am you don't decide, you just leave.\n\nCoffee after, not before. It's the reward for going, not the fuel to go.\n\nSame ten minutes, same time. Short and repeatable beats long and occasional.",
+   "publish_after_utc": "2026-08-20T19:00:00Z"
+  },
+  {
+   "id": "fn0820-r3-phone-other-room",
+   "account": "fromnahu",
+   "connected_account_id": "ca_VRUHZDxCL_yJ",
+   "ig_user_id": "17841423764965740",
+   "expect_username": "fromnahu",
+   "trial": false,
+   "blob_key": "fn0820_r3.mp4",
+   "caption": "You're not distracted at dinner because you lack discipline. You're distracted because the phone is within arm's reach and your hand doesn't need permission.\n\nThree more places to move it:\n\nThe bedroom. Charger in the kitchen. You wake up to a room instead of a screen.\n\nThe gym. Leave it in the bag between sets. The rest gets shorter on its own.\n\nThe car. Glovebox before you start the engine. Nothing arrives in twenty minutes that can't wait.",
+   "publish_after_utc": "2026-08-20T19:00:00Z"
   }
  ],
  "expect_username": "iamnahu"
