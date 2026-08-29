@@ -2397,13 +2397,15 @@
       "publish_after_utc": "2026-08-30T23:00:00Z"
     },
     {
+      "account": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "expect_username": "iamnahu",
+      "trial": true,
       "id": "deepsleep-hormozi-0829",
       "blob_key": "ig_deepsleep_hormozi_0829",
       "caption": "you don't need more hours of sleep. you need better ones.\n\ni used to sleep 8, 9 hours and still wake up foggy. turns out the number that runs your energy, your recovery and your testosterone isn't total sleep, it's deep sleep. the stage your body actually repairs in.\n\nmine used to be 30-40 min a night. now it sits around 2 to 2.5 hours. same bed, same hours in it. what moved it:\n\nwhat i eat and how late i eat it\na real wind down at night instead of scrolling till i pass out\nno alcohol, no nicotine\nmorning light and movement so my body knows the day started\n\nwith 6-7 solid hours of that you're more than ready. you don't need 9.\n\nwe spend almost a third of our life asleep and treat it like an afterthought. fix that one first and everything else gets 10 times easier.\n\ncomment BUILD and i'll send you the full guide, the exact food and the morning and night routine i actually use. free.",
-      "publish_after_utc": "2026-08-29T01:12:34Z",
-      "connected_account_id": "ca_9ppxQJ5SI21Q",
-      "expect_username": "iamnahu",
-      "trial": true
+      "publish_after_utc": "2026-08-29T01:12:34Z"
     }
   ],
   "expect_username": "iamnahu"
