@@ -1241,17 +1241,6 @@
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu",
    "trial": true,
-   "id": "inspirtanda-h1-a-day-that-isnt-mine",
-   "blob_key": "inspirtanda_h1-a-day-that-isnt-mine.mp4",
-   "caption": "6am, training before anyone needs anything from me. 10am, a call with a client in a different time zone. 1pm, cooking the only meal i actually control that day. 11pm, same thing tomorrow.\n\nfollow me, this is the real day, not the highlight.",
-   "publish_after_utc": "2026-09-05T16:33:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
    "id": "followtanda-v5-train-strong-take",
    "blob_key": "followtanda_v5-train-strong-take.mp4",
    "caption": "two hours a day standing on a train never built anyone's life. quit on a phone call and walked out crying. not sad, relieved.\n\nfollow me for what i built instead of that train.",
@@ -1274,32 +1263,10 @@
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu",
    "trial": true,
-   "id": "inspirtanda-v2-earned-the-calm",
-   "blob_key": "inspirtanda_v2-earned-the-calm.mp4",
-   "caption": "people think i'm calm because nothing ever went wrong for me. 19 in a garage while people laughed at the skinny kid. 24 in a season with no sun and a business barely alive. the calm isn't luck, it's what's left after all that.\n\nfollow me, i post the seasons, not just the result.",
-   "publish_after_utc": "2026-09-05T18:00:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
    "id": "icpsolve-v1-the-restart-cycle",
    "blob_key": "icpsolve_v1-the-restart-cycle.mp4",
    "caption": "every year i told myself this time is different. quit after two weeks, blamed the schedule. quit after a month, blamed the program. the thing that finally worked wasn't more willpower.\n\nfollow me for the system that ended the cycle.",
    "publish_after_utc": "2026-09-05T18:08:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
-   "id": "inspirtanda-h2-wanted-this-once",
-   "blob_key": "inspirtanda_h2-wanted-this-once.mp4",
-   "caption": "you complain about the gym being loud because you have one. sore legs because they still work. early calls because clients trust you with them. some of this you once just wanted.\n\nfollow me, i keep count of the things i almost missed.",
-   "publish_after_utc": "2026-09-05T18:47:00Z"
   },
   {
    "account": "iamnahu",
@@ -1318,32 +1285,10 @@
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu",
    "trial": true,
-   "id": "inspirtanda-v3-choosing-myself",
-   "blob_key": "inspirtanda_v3-choosing-myself.mp4",
-   "caption": "i was their 10/10 son until i said no for the first time. 8/10 when i quit the safe plan. 6/10 when i moved countries without their blessing. 1/10 when i built a life they never approved of.\n\nfollow me, you don't need a perfect score from anyone.",
-   "publish_after_utc": "2026-09-05T19:34:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
    "id": "icpsolve-v2-overtraining-signs",
    "blob_key": "icpsolve_v2-overtraining-signs.mp4",
    "caption": "trained six days a week and wondered why nothing changed. more sessions, less sleep, no actual recovery. cut to four days, added recovery, results showed up in weeks.\n\nfollow me, i post the plans that actually work.",
    "publish_after_utc": "2026-09-05T19:38:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
-   "id": "inspirtanda-h3-normal-as-a-coach",
-   "blob_key": "inspirtanda_h3-normal-as-a-coach.mp4",
-   "caption": "things that are normal as an online coach nobody tells you. some weeks you coach better than you train. a client's win carries you further than your own pr. you still doubt a plan you've run a hundred times.\n\nfollow me, i don't only post the clean version.",
-   "publish_after_utc": "2026-09-05T20:21:00Z"
   },
   {
    "account": "iamnahu",
@@ -1362,10 +1307,10 @@
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu",
    "trial": true,
-   "id": "inspirtanda-v4-who-its-for",
-   "blob_key": "inspirtanda_v4-who-its-for.mp4",
-   "caption": "who are you really doing this for? not the mirror. not the ones who doubted you first.\n\nfollow me, i still ask myself this every week.",
-   "publish_after_utc": "2026-09-05T21:08:00Z"
+   "id": "fetanda-v1-are-you-happy",
+   "blob_key": "fetanda_v1-are-you-happy.mp4",
+   "caption": "two strangers stopped us on the street and asked if i was happy. i didn't even know how to answer. i realized i hadn't asked myself that since i left argentina.\n\nfollow me, more of what that month taught me.",
+   "publish_after_utc": "2026-09-06T06:00:00Z"
   },
   {
    "account": "iamnahu",
@@ -1373,32 +1318,10 @@
    "ig_user_id": "17841402084791902",
    "expect_username": "iamnahu",
    "trial": true,
-   "id": "inspirtanda-h4-why-are-you-always-training",
-   "blob_key": "inspirtanda_h4-why-are-you-always-training.mp4",
-   "caption": "\"why do you always train right at sunset?\" me, ignoring the question. and training anyway.\n\nfollow me, some habits don't need a good reason.",
-   "publish_after_utc": "2026-09-05T21:55:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
-   "id": "inspirtanda-v5-saturday-roulette",
-   "blob_key": "inspirtanda_v5-saturday-roulette.mp4",
-   "caption": "saturday plans, picked by whatever life throws first. a client texts at 8am. training, because the body doesn't take saturdays off. somehow that's still the plan i wanted.\n\nfollow me for more of the saturdays that don't go as planned.",
-   "publish_after_utc": "2026-09-05T22:42:00Z"
-  },
-  {
-   "account": "iamnahu",
-   "connected_account_id": "ca_9ppxQJ5SI21Q",
-   "ig_user_id": "17841402084791902",
-   "expect_username": "iamnahu",
-   "trial": true,
-   "id": "inspirtanda-h5-what-she-taught-me-pt1",
-   "blob_key": "inspirtanda_h5-what-she-taught-me-pt1.mp4",
-   "caption": "a lesson from my girlfriend that changed how i coach clients. she plans her whole day before she even leaves the house. i used to wing it and call it flexibility. now every client of mine starts with a real plan.\n\nfollow me, there's a pt 2 to this.",
-   "publish_after_utc": "2026-09-05T23:29:00Z"
+   "id": "fetanda-h1-bought-the-bible",
+   "blob_key": "fetanda_h1-bought-the-bible.mp4",
+   "caption": "nobody in my family is religious. this month i bought a bible anyway. i read a few pages every night, testing if an old book actually has anything to say. taking notes like it's any other book i study.\n\nfollow me, i talk more about what i'm learning.",
+   "publish_after_utc": "2026-09-06T07:50:00Z"
   },
   {
    "account": "iamnahu",
@@ -1465,6 +1388,193 @@
    "blob_key": "icpsolve_h5-what-a-client-taught-me-pt1.mp4",
    "caption": "a client with four jobs taught me something about excuses. he said there was no time for a real plan. we built one around his actual schedule, not an ideal one. now the plan bends, he doesn't.\n\nfollow me, there's a pt 2 to this.",
    "publish_after_utc": "2026-09-06T13:05:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-h1-a-day-that-isnt-mine",
+   "blob_key": "inspirtanda_h1-a-day-that-isnt-mine.mp4",
+   "caption": "6am, training before anyone needs anything from me. 10am, a call with a client in a different time zone. 1pm, cooking the only meal i actually control that day. 11pm, same thing tomorrow.\n\nfollow me, this is the real day, not the highlight.",
+   "publish_after_utc": "2026-09-06T15:50:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-v2-signs-you-stopped-asking",
+   "blob_key": "fetanda_v2-signs-you-stopped-asking.mp4",
+   "caption": "5 signs you stopped asking if you're actually happy. you chase the next city instead of the next year. stillness feels like falling behind. you can't remember the last real question you asked yourself.\n\nfollow me, i'm posting what changed for me.",
+   "publish_after_utc": "2026-09-06T16:40:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-v2-earned-the-calm",
+   "blob_key": "inspirtanda_v2-earned-the-calm.mp4",
+   "caption": "people think i'm calm because nothing ever went wrong for me. 19 in a garage while people laughed at the skinny kid. 24 in a season with no sun and a business barely alive. the calm isn't luck, it's what's left after all that.\n\nfollow me, i post the seasons, not just the result.",
+   "publish_after_utc": "2026-09-06T17:20:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-h2-the-toll",
+   "blob_key": "fetanda_h2-the-toll.mp4",
+   "caption": "the hard years weren't bad luck. they were the toll.\n\nfollow me for what that toll bought.",
+   "publish_after_utc": "2026-09-06T18:00:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-h2-wanted-this-once",
+   "blob_key": "inspirtanda_h2-wanted-this-once.mp4",
+   "caption": "you complain about the gym being loud because you have one. sore legs because they still work. early calls because clients trust you with them. some of this you once just wanted.\n\nfollow me, i keep count of the things i almost missed.",
+   "publish_after_utc": "2026-09-06T18:40:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-v3-third-person-trick",
+   "blob_key": "fetanda_v3-third-person-trick.mp4",
+   "caption": "i started looking at people like i was watching from outside. not taking it personal when someone acts a certain way. some people are just going to be who they are.\n\nfollow me, i post more of how i think now.",
+   "publish_after_utc": "2026-09-06T19:20:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-v3-choosing-myself",
+   "blob_key": "inspirtanda_v3-choosing-myself.mp4",
+   "caption": "i was their 10/10 son until i said no for the first time. 8/10 when i quit the safe plan. 6/10 when i moved countries without their blessing. 1/10 when i built a life they never approved of.\n\nfollow me, you don't need a perfect score from anyone.",
+   "publish_after_utc": "2026-09-06T20:00:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-h3-told-my-family",
+   "blob_key": "fetanda_h3-told-my-family.mp4",
+   "caption": "i told my parents and my sister something i never had before. that i'd started reading the bible, on my own. a version of me they hadn't met yet.\n\nfollow me, i'm still figuring this out.",
+   "publish_after_utc": "2026-09-06T20:40:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-h3-normal-as-a-coach",
+   "blob_key": "inspirtanda_h3-normal-as-a-coach.mp4",
+   "caption": "things that are normal as an online coach nobody tells you. some weeks you coach better than you train. a client's win carries you further than your own pr. you still doubt a plan you've run a hundred times.\n\nfollow me, i don't only post the clean version.",
+   "publish_after_utc": "2026-09-06T21:20:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-v4-since-i-left-argentina",
+   "blob_key": "fetanda_v4-since-i-left-argentina.mp4",
+   "caption": "i hadn't asked myself a real question in about two years. the adrenaline of the new does that to you.\n\nfollow me, there's more to this.",
+   "publish_after_utc": "2026-09-06T22:00:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-v4-who-its-for",
+   "blob_key": "inspirtanda_v4-who-its-for.mp4",
+   "caption": "who are you really doing this for? not the mirror. not the ones who doubted you first.\n\nfollow me, i still ask myself this every week.",
+   "publish_after_utc": "2026-09-06T22:40:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-h4-building-it",
+   "blob_key": "fetanda_h4-building-it.mp4",
+   "caption": "some things you build quietly, alone. one piece at a time, nobody watching.\n\nfollow me, i post the parts nobody sees getting built.",
+   "publish_after_utc": "2026-09-06T23:20:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-h4-why-are-you-always-training",
+   "blob_key": "inspirtanda_h4-why-are-you-always-training.mp4",
+   "caption": "\"why do you always train right at sunset?\" me, ignoring the question. and training anyway.\n\nfollow me, some habits don't need a good reason.",
+   "publish_after_utc": "2026-09-07T00:00:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-v5-confio-en-el-proceso",
+   "blob_key": "fetanda_v5-confio-en-el-proceso.mp4",
+   "caption": "i used to think the hard years were just bad luck. now i think they were the price for something i couldn't see yet.\n\nfollow me, i post the seasons, not just the result.",
+   "publish_after_utc": "2026-09-07T00:40:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-v5-saturday-roulette",
+   "blob_key": "inspirtanda_v5-saturday-roulette.mp4",
+   "caption": "saturday plans, picked by whatever life throws first. a client texts at 8am. training, because the body doesn't take saturdays off. somehow that's still the plan i wanted.\n\nfollow me for more of the saturdays that don't go as planned.",
+   "publish_after_utc": "2026-09-07T01:20:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "fetanda-h5-a-stranger-shared-something",
+   "blob_key": "fetanda_h5-a-stranger-shared-something.mp4",
+   "caption": "two women stopped us to share something they didn't have to. complete strangers, a question that went deep fast. we told them things we hadn't said to people who know us.\n\nfollow me, that conversation stayed with me.",
+   "publish_after_utc": "2026-09-07T02:00:00Z"
+  },
+  {
+   "account": "iamnahu",
+   "connected_account_id": "ca_9ppxQJ5SI21Q",
+   "ig_user_id": "17841402084791902",
+   "expect_username": "iamnahu",
+   "trial": true,
+   "id": "inspirtanda-h5-what-she-taught-me-pt1",
+   "blob_key": "inspirtanda_h5-what-she-taught-me-pt1.mp4",
+   "caption": "a lesson from my girlfriend that changed how i coach clients. she plans her whole day before she even leaves the house. i used to wing it and call it flexibility. now every client of mine starts with a real plan.\n\nfollow me, there's a pt 2 to this.",
+   "publish_after_utc": "2026-09-07T06:00:00Z"
   }
  ],
  "expect_username": "iamnahu"
