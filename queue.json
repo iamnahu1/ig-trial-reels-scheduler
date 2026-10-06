@@ -2882,6 +2882,17 @@
       "ig_user_id": "17841402084791902",
       "expect_username": "iamnahu",
       "trial": true
+    },
+    {
+      "account": "iamnahu",
+      "connected_account_id": "ca_9ppxQJ5SI21Q",
+      "ig_user_id": "17841402084791902",
+      "expect_username": "iamnahu",
+      "trial": true,
+      "id": "loseweight1006",
+      "blob_key": "loseweight1006.mp4",
+      "caption": "Most people try to fix the body before they fix the mind. That's backwards.\n\nYour habits, your self-talk after a bad day, the environment around you, all of it has to shift first. Once it does, training stops being a decision you make every morning. It becomes who you are.\n\nComment BUILD and I'll walk you through the exact system that's worked for me and my clients.",
+      "publish_after_utc": "2026-10-06T23:10:00Z"
     }
   ],
   "expect_username": "iamnahu"
