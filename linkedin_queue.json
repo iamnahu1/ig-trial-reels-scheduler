@@ -465,27 +465,12 @@
       ]
     },
     {
-      "id": "li-1022-eating",
+      "id": "li-1022-sprint",
       "publish_after_utc": "2026-10-22T12:00:00Z",
-      "commentary": "most late night eating starts at breakfast\nsave this for tomorrow morning",
-      "images": [
-        {
-          "blob_key": "li_img_li-1022-eating_00",
-          "mimetype": "image/png"
-        },
-        {
-          "blob_key": "li_img_li-1022-eating_01",
-          "mimetype": "image/png"
-        },
-        {
-          "blob_key": "li_img_li-1022-eating_02",
-          "mimetype": "image/png"
-        },
-        {
-          "blob_key": "li_img_li-1022-eating_03",
-          "mimetype": "image/png"
-        }
-      ]
+      "commentary": "sprinting and swimming won't build your muscle. they show it.\n\n2 sessions a week will lean you out.\n\nbut with no muscle under it you just get smaller, that's why this only works on top of calisthenics.\n\nthe week looks like this:\n\n1. calisthenics 3 days a week\nthis is where the muscle comes from. pull-ups, dips, push-ups, rows and squats, a little harder every week. one more rep, a harder progression or weight on a belt. sprints and swimming don't load your muscles enough to grow them\n\n2. one sprint day\nshort and all out. 6 to 8 sprints of 10-15 seconds, walk back and rest until you feel fresh again. when the last ones get slower than the first ones you're done for the day\n\n3. one swim day\nhard efforts of 30-60 seconds, recover and repeat for about 20 minutes. the water pushes back on every stroke so your back, shoulders and core work the whole time and your joints don't take a beating. in open water never go alone\n\n4. drop the long slow runs\nan hour of running a few times a week stacked on training, work and short sleep is a lot of stress to recover from, and weeks of high cortisol can drag your testosterone down. short hard sessions give you the conditioning without eating your recovery\n\nmy free guide on testosterone is in the first comment.",
+      "video_asset": "urn:li:digitalmediaAsset:D4E05AQFXXpLiHS35bQ",
+      "images": [],
+      "first_comment": "free guide on testosterone: https://freeguidebynahu.val.run"
     },
     {
       "id": "li-1023-carryon",
@@ -506,6 +491,29 @@
         },
         {
           "blob_key": "li_img_li-1023-carryon_03",
+          "mimetype": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "li-1022-eating",
+      "publish_after_utc": "2026-10-24T12:00:00Z",
+      "commentary": "most late night eating starts at breakfast\nsave this for tomorrow morning",
+      "images": [
+        {
+          "blob_key": "li_img_li-1022-eating_00",
+          "mimetype": "image/png"
+        },
+        {
+          "blob_key": "li_img_li-1022-eating_01",
+          "mimetype": "image/png"
+        },
+        {
+          "blob_key": "li_img_li-1022-eating_02",
+          "mimetype": "image/png"
+        },
+        {
+          "blob_key": "li_img_li-1022-eating_03",
           "mimetype": "image/png"
         }
       ]
