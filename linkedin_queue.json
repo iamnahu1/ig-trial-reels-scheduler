@@ -473,8 +473,16 @@
       "first_comment": "free guide on testosterone: https://freeguidebynahu.val.run"
     },
     {
-      "id": "li-1023-carryon",
+      "id": "li-1023-balanced",
       "publish_after_utc": "2026-10-23T12:00:00Z",
+      "commentary": "a sunday run doesn't cancel saturday night.\nand if your weekend costs you monday and tuesday, that's not balance",
+      "video_asset": "urn:li:digitalmediaAsset:D4E05AQH63gRj2tooSQ",
+      "images": [],
+      "first_comment": "free guide on testosterone: https://freeguidebynahu.val.run"
+    },
+    {
+      "id": "li-1023-carryon",
+      "publish_after_utc": "2026-10-24T12:00:00Z",
       "commentary": "the trip isn't what breaks the routine\nthe restart after it is",
       "images": [
         {
@@ -497,7 +505,7 @@
     },
     {
       "id": "li-1022-eating",
-      "publish_after_utc": "2026-10-24T12:00:00Z",
+      "publish_after_utc": "2026-10-25T12:00:00Z",
       "commentary": "most late night eating starts at breakfast\nsave this for tomorrow morning",
       "images": [
         {
